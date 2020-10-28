@@ -1,4 +1,4 @@
-# LBPA-1
+# LBPA
 Length-based Pseudo-cohort Analysis Guide
 
 This guide contains functions to compile and run the Length-based PseudoCohort Analysis (LBPA) fisheries stock assessment method in data limited conditions
